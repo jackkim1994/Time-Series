@@ -1,4 +1,4 @@
-# Time_Series
+# Time Series
 <p>This repository is specifically for Time Series class projects I am currently taking in **UCLA Economics 144: Economic Forecasting.**</p>
 <p>I will update the project whenever I successfully complete the project with my group.</p>
 
