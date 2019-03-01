@@ -7,5 +7,5 @@
 
 ![eugene_police_calls](https://user-images.githubusercontent.com/42131127/51965357-259a5180-241e-11e9-8158-80d1d171b793.png)
 
-<p>Further information of my group's analysis in the Project 1: Number of Calls in Eugene, OR can be found above</p>
+<p>Further information of my group's analysis in the Project 1: Number of Calls in Eugene, OR can be found above.</p>
 <p>Data Reference: https://www.kaggle.com/warrenhendricks/police-call-data-for-eugene-and-springfield-or</p>
